@@ -3,8 +3,8 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rukencio&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rukencio&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukencio&layout=compact&theme=radical" />
 </div>
 
 ##
