@@ -16,8 +16,5 @@
 
 ##
 
-- Community Manager of 🥎 Conexão - Roleplay
-- Community Manager of 🌴 Bahamas Oficial - Roleplay
-- Community Manager of 💢 Paraisópolis SP - Roleplay
+- CEO 🌴 Bahamas Oficial - Roleplay
 - Equipe FusionGroup
-
